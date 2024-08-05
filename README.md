@@ -1,0 +1,1 @@
+The datatset on which we work provides historical data from 2012 to 2022 of TESLA INC. stock (TSLA) in USD. The data is available at a daily level. Here, I try to regress and predict the adjusted closing price of the stock.
